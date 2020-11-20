@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Искандер\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Искандер\\.nuget\\packages"
+    ]
+  }
+}
